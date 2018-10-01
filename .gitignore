@@ -1,0 +1,17 @@
+# Compiled code
+*.o
+*.class
+*.pyc
+*.out
+*.exe
+*.so
+*.jar
+
+# Others to ignore
+*.tar
+*.gz
+*.zip
+*.bak
+*.swp
+*.swo
+*~
